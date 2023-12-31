@@ -1,0 +1,71 @@
+.asd{
+    background-color: blue;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    padding: 6px 8px
+}
+.aman{
+    margin-top: 50px;
+}
+.ver{
+    padding-left: 117px;
+    text-align: center;
+    
+}
+.h5, h5 {
+    font-size: 1.25rem;
+    text-align: center;
+}
+.monu{
+    margin-top: 95px;
+}
+.sonu{
+    background-image: url(/image/Highlight-Slim-Multi-Canvas-AEM-Game-Pass-Ultimate_VP5-1596x600.jpeg);
+    color: white;
+    width: 100%;
+    height: 355px;
+    margin-top: 95px;
+}
+.copy{
+    padding-left: 85px;
+    padding-top: 90px;
+
+}
+.mohan{
+    margin-top: 95px;
+}
+.tanu{
+    display: flex;
+    height: 55px;
+    margin-top: 95px;
+}
+.pull{
+    margin-top: 95px;
+}
+.rohan{
+    text-align: end;
+}
+
+.footer-container{
+    height: 500px;
+    background-color:whitesmoke;
+    color: white;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr 3fr 3fr;
+    color: black;
+    margin-top: 95px;
+    padding-left: 20px;
+    padding: 50px;
+
+}
+.footer-title{
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+.footer-title~div{
+    margin-bottom: 12px;
+}

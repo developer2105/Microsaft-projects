@@ -1,0 +1,80 @@
+.abc{
+    background-color: #143F6B;
+    height: 50px;
+    text-align: center;
+    color: white;
+    padding: 8px;
+}
+.bom{
+    background-image: url(/image/Hero-Teams_VP5-1920x600.avif);
+    width: 100%;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.rohan{
+    padding-left: 104px;
+    padding-top: 126px;
+}
+.more{
+    
+  padding-left: 50px;
+}
+.sor{
+    margin-top: 90px;
+}
+.copy{
+    margin-top: 90px;
+    text-align: center;
+}
+.rohit{
+    text-align: center;
+    margin-top: 90px;
+}
+.more{
+    text-align: center;
+    margin-top: 90px;
+}
+.body{
+    margin-top: 90px;
+}
+.ver{
+    text-align: center;
+    margin-top: 90px; 
+}
+.car{
+    color:green;
+}
+.car:hover{
+    text-decoration: underline;
+}
+.pop{
+    margin-top: 90px;
+}
+.homar{
+    margin-top: 90px;
+    display: flex;
+    height: 55px;
+}
+.footer-container{
+    height: 500px;
+    background-color:whitesmoke;
+    color: white;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr 3fr 3fr;
+    color: black;
+    margin-top: 95px;
+    padding-left: 20px;
+    padding: 50px;
+
+}
+.footer-title{
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+.footer-title~div{
+    margin-bottom: 12px;
+}

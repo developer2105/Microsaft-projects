@@ -1,0 +1,22 @@
+.abc{
+    background-color: #143F6B;
+    height: 50px;
+    text-align: center;
+    color: white;
+    padding: 8px;
+}
+.monu{
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(/image/Blade001_Area_Heading-VP5_Desktop_1920x720.avif);
+}
+.aman{
+    text-align: center;
+}
+.more {
+    padding-left: 885px;
+    padding-top: 60px;
+}

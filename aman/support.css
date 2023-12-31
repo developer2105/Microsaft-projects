@@ -1,0 +1,194 @@
+.rohan{
+    background-image: url(/image/76bb3497-baf7-4f68-ac15-0da34f0caf56.png);
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 55px;
+}
+.aman{
+    display: flex;
+    margin: 10px;
+    text-align: center;
+}
+.mohan{
+    margin: 10px;
+    display: flex;
+    padding-left: 505px;
+}
+.roj{
+    width: 575px;
+    
+    text-align: center;
+}
+.manohar{
+    
+    padding-left: 371px;
+}
+.green{
+    padding: 10px;
+}
+.manu{
+    padding-top: 50px;
+}
+.asd{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 150px;
+}
+.sohan{
+    width: 50px;
+    height: 45px;
+}
+.ghar{
+    text-align: center;
+    margin-top: 50px;
+}
+.aman{
+    padding-top: 20px;
+}
+.footer-container{
+   
+    height: 400px;
+    color: black;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+    margin-top: 60px;
+}
+.footer-title{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.footer-title~div{
+    margin-bottom: 10px;
+}
+.rohit{
+    width: 100%;
+    height: 500px;
+    background-color: whitesmoke;
+    padding-top: 40px;
+}
+.boy{
+    width: 690px;
+    height: 392px;
+    border: 0px solid red;
+   float: left;
+   margin: 6px;
+}
+.boys{
+    width: 566px;
+    height: 392px;
+    border: 0px solid red;
+    float: left;
+    margin: 6px;
+   
+}
+.sonu{
+    width: 100%;
+    height: 390px ;
+}
+.joker{
+    color: green;
+}
+.joker:hover{
+    text-decoration: underline;
+}
+
+.tanu{
+    text-align: center;
+    margin-top: 40px;
+}
+.papa{
+    margin-top: 20px;
+}
+.abc{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 450px;
+    margin-top: 50px;
+}
+.pari{
+    width: 606px;
+    height: 350px;
+    border: 0px solid ;
+   
+    float: left;
+    margin: 10px;
+
+   
+
+}
+.pari2{
+    width: 650px;
+    height: 350px;
+    bottom: 5px solid green;
+  
+    float: left;
+    margin: 10px;
+}
+.kala{
+    width: 698px;
+    height: 365px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.malu{
+    text-align: center;
+    margin-top: 50px;
+}
+.pool{
+    padding-top: 25px;
+}
+.maurya{
+    color: blue;
+}
+.maurya:hover{
+    text-decoration: underline;
+}
+.home{
+    width: 100%;
+    height: 480px;
+    background-color: whitesmoke;
+}
+.ser{
+    width: 630px;
+    height: 380px;
+}
+.cantact{
+    padding-top: 50px;
+}
+.md{
+    margin-top: 50px;
+    text-align: center;
+}
+.foter-container{
+    height: 500px;
+    background-color:whitesmoke;
+    color: white;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr 3fr 3fr;
+    color: black;
+    margin-top: 95px;
+    padding-left: 20px;
+    padding: 50px;
+
+}
+.foter-title{
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+.foter-title~div{
+    margin-bottom: 12px;
+}
+.moti{
+    width: 127px;
+    height: 30px;
+}
